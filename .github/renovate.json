@@ -19,7 +19,7 @@
     {
       "fileMatch": ["attachments.json$"],
       "matchStrings": [
-          "\"cpu\": \"(.*)\",\\s        \"datasource\": \"(?<datasource>.*?)\",\\s        \"depname\": \"(?<depName>.*?)\",\\s        \"os\": \"(.*)\",\\s        \"sha256\": \"(?<currentDigest>.*?)\",\\s        \"url\": \"(?<currentUrl>.*?)\",\\s        \"version\": \"(?<currentValue>.*?)\""
+          "\"cpu\": \"(.*)\",\\s    \"datasource\": \"(?<datasource>.*?)\",\\s    \"depname\": \"(?<depName>.*?)\",\\s    \"os\": \"(.*)\",\\s    \"sha256\": \"(?<currentDigest>.*?)\",\\s    \"url\": \"(?<currentUrl>.*?)\",\\s    \"version\": \"(?<currentValue>.*?)\""
       ],
       "versioningTemplate": "{{#if versioning}}{{{versioning}}}{{else}}semver-coerced{{/if}}"
     }
