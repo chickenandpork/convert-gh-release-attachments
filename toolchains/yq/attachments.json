@@ -4,9 +4,9 @@
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "osx",
-    "sha256": "821bb7e491d2dae72c0c83d69f521dd0c8f473de35a50566fb3f718131f54747",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_darwin_amd64.tar.gz",
-    "version": "v4.45.4"
+    "sha256": "70cb7b9a6601360de699c789000814e26023bf6b3fbb2454462e5169a4936f03",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_darwin_amd64.tar.gz",
+    "version": "v4.46.1"
   },
   "yq_darwin_arm64": {
     "cpu": "aarch64",
@@ -31,9 +31,9 @@
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "freebsd",
-    "sha256": "ba9b94cb4e967f3284fbe068e1d1098a28612e409e52b25d2f39c03074edc1be",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_freebsd_amd64.tar.gz",
-    "version": "v4.45.4"
+    "sha256": "916fa1b44ffb8a2761b42d5a13150b8fc864d7ea00329c92831bcce67e8d16d0",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_freebsd_amd64.tar.gz",
+    "version": "v4.46.1"
   },
   "yq_freebsd_arm": {
     "cpu": "arm",
