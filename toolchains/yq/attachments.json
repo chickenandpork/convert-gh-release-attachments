@@ -4,98 +4,98 @@
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "osx",
-    "sha256": "315a93772f66614f17dcbfe5dedf77b4ed6a210490f4ea7d1f730133f4e40143",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_darwin_amd64.tar.gz",
-    "version": "v4.50.1"
+    "sha256": "98a438297a96576fbc8a1d305f1c44464b1bb85c9975d30e5a5157896312a82a",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_darwin_amd64.tar.gz",
+    "version": "v4.52.1"
   },
   "yq_darwin_arm64": {
     "cpu": "aarch64",
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "osx",
-    "sha256": "dffadc64fd515f5fbe31e8c131e02536dbd288188acf077fb4aa19fe94b727d0",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_darwin_arm64.tar.gz",
-    "version": "v4.50.1"
+    "sha256": "355caa963f4e568f75f3981e6452f86eed54caf1eafbcbffc8ae310289dea3ff",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_darwin_arm64.tar.gz",
+    "version": "v4.52.1"
   },
   "yq_freebsd_386": {
     "cpu": "i386",
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "freebsd",
-    "sha256": "9081e9e2163947a6e9bc2165b0229479284ad808332dbd5f294672c98b34c780",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_freebsd_386.tar.gz",
-    "version": "v4.50.1"
+    "sha256": "77252101ded8506d201422037a69128c66161d0ef4c4e024102f589045254110",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_freebsd_386.tar.gz",
+    "version": "v4.52.1"
   },
   "yq_freebsd_amd64": {
     "cpu": "x86_64",
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "freebsd",
-    "sha256": "f59322e0276a199b595408dde9eb6d92e79df169deeb2c32b63483f4deb91886",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_freebsd_amd64.tar.gz",
-    "version": "v4.50.1"
+    "sha256": "efc7a596a7726ad4065df07d86d96c47bb0d0128ea3c454543e21afbdf78fe7b",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_freebsd_amd64.tar.gz",
+    "version": "v4.52.1"
   },
   "yq_freebsd_arm": {
     "cpu": "arm",
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "freebsd",
-    "sha256": "9c2c09b34a40b2c4958cb5ed69830c4fde304bc31be01335f9cb25be4481c019",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_freebsd_arm.tar.gz",
-    "version": "v4.50.1"
+    "sha256": "47fb46631aae0b9c8c14310748b12cccb2f0c7b8c2b5b3b2c9ecb493c6244898",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_freebsd_arm.tar.gz",
+    "version": "v4.52.1"
   },
   "yq_linux_386": {
     "cpu": "i386",
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "linux",
-    "sha256": "c6275202a28df0921a48e627e8e378988f91acf05b163a279cc85829ba358024",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_386.tar.gz",
-    "version": "v4.50.1"
+    "sha256": "ea1d72ccc546e288fd02e5f21c5d2f29c0d9c045cd29a4b7d6ae292138860ac5",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_386.tar.gz",
+    "version": "v4.52.1"
   },
   "yq_linux_amd64": {
     "cpu": "x86_64",
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "linux",
-    "sha256": "00534770a46b889ecfd16cc62ffb0a040207288190130c2cd5d8492a41d8570f",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_amd64.tar.gz",
-    "version": "v4.50.1"
+    "sha256": "a20741acaf5b8e014690ee02185dc8b15ecc9f25dd7a39ece9da0dcf75ad8c3c",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_amd64.tar.gz",
+    "version": "v4.52.1"
   },
   "yq_linux_arm": {
     "cpu": "arm",
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "linux",
-    "sha256": "f5508a21097873f21cc50e3aef8af5a007649de2461ea7503399f89e01b62509",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_arm.tar.gz",
-    "version": "v4.50.1"
+    "sha256": "47d1ccac1e1a0e063e46277d1fbda709c2b96bdabf5fdc463f9a6bb790bae83e",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_arm.tar.gz",
+    "version": "v4.52.1"
   },
   "yq_linux_arm64": {
     "cpu": "aarch64",
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "linux",
-    "sha256": "86a4b3873a7b0fda3007305b54a44b3ea4850ba059719fcd7cb80df20c8517e5",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_arm64.tar.gz",
-    "version": "v4.50.1"
+    "sha256": "4c90d678d6eb24523ed05106614c169437449a8b160035db73f649980fbd27bb",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_arm64.tar.gz",
+    "version": "v4.52.1"
   },
   "yq_openbsd_amd64": {
     "cpu": "x86_64",
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "openbsd",
-    "sha256": "1d2b430ba3c8c510dec107cfd79d18bbf4840b3cee3d5969cc5218995479822d",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_openbsd_amd64.tar.gz",
-    "version": "v4.50.1"
+    "sha256": "4b48f23ab4450b9926ab38ee7f728548db7a73e53886633886cabcf83368f726",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_openbsd_amd64.tar.gz",
+    "version": "v4.52.1"
   },
   "yq_windows_amd64": {
     "cpu": "x86_64",
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "windows",
-    "sha256": "d3d61b6958a3d4a3c06f40df066fc1afc57d14cb094b9b787c746c0271733683",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_windows_amd64.zip",
-    "version": "v4.50.1"
+    "sha256": "908f8a1886fcbaef749980bbf77385999f9400126cc94d2b44302f305e968264",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_windows_amd64.zip",
+    "version": "v4.52.1"
   }
 }
