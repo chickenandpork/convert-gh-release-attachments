@@ -4,9 +4,9 @@
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "osx",
-    "sha256": "48bc2dbb33f456efaf639e1e573b8e5a654701c2e92ef231e691c3971d5d4a5e",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.53.2/yq_darwin_amd64.tar.gz",
-    "version": "v4.53.2"
+    "sha256": "b2cc367e9f5491b3b9b191aa19ba3a3163daf99d84f90bc7bd8918010a66e69a",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.54.1/yq_darwin_amd64.tar.gz",
+    "version": "v4.54.1"
   },
   "yq_darwin_arm64": {
     "cpu": "aarch64",
@@ -58,9 +58,9 @@
     "datasource": "github-release-attachments",
     "depname": "mikefarah/yq",
     "os": "linux",
-    "sha256": "44c3c6df6c58ef1460d98425954ca5e832926e0e8a1d75c5c8fd261691351510",
-    "url": "https://github.com/mikefarah/yq/releases/download/v4.53.2/yq_linux_amd64.tar.gz",
-    "version": "v4.53.2"
+    "sha256": "e68a456f90c577af3fe4960184b3a3cf5c461e0348407c10f107da3a5fec8972",
+    "url": "https://github.com/mikefarah/yq/releases/download/v4.54.1/yq_linux_amd64.tar.gz",
+    "version": "v4.54.1"
   },
   "yq_linux_arm": {
     "cpu": "arm",
